@@ -5,7 +5,7 @@ import { enthusiasm, coffee } from 'developer-life';
 const Error404 = () => (
 
   <>
-    <h1>👋 Hey there! I'm Vikraman G</h1>
+    <p>👋 Hey there! I'm Vikraman G</p>
     <p>✨ Fueled by <code>passion</code> and <code>coffee</code>, I'm all about web development and tech!</p>
     <p>🌱 Currently on a quest to master JavaScript and Flask – wish me luck!</p>
     <p>💼 A proud web developer who can MERN with the best of them and speaks fluent Python</p>
