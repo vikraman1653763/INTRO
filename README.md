@@ -1,7 +1,9 @@
 import passion from 'coding';
+
 import { enthusiasm, coffee } from 'developer-life';
 
 const Error404 = () => (
+
   <>
     <h1>👋 Hey there! I'm Vikraman G</h1>
     <p>✨ Fueled by <code>passion</code> and <code>coffee</code>, I'm all about web development and tech!</p>
@@ -13,6 +15,7 @@ const Error404 = () => (
     <p>💞️ Let's team up and build something awesome – or at least have a good laugh trying!</p>
     <p>📫 Shoot me a message at <a href="mailto:vikraman1653763@gmail.com">vikraman1653763@gmail.com</a></p>
   </>
+  
 );
 
 export default Error404;
