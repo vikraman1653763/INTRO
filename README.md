@@ -3,7 +3,6 @@ import passion from 'coding';
 import { enthusiasm, coffee } from 'developer-life';
 
 const Error404 = () => (
-
   <>
     <p>👋 Hey there! I'm Vikraman G</p>
     <p>✨ Fueled by <code>passion</code> and <code>coffee</code>, I'm all about web development and tech!</p>
