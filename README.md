@@ -22,5 +22,3 @@ export default Error404;
 ![vikraman1653763's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikraman1653763&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ![vikraman1653763's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikraman1653763&theme=tokyonight&hide_border=true)
-
-![vikraman1653763's Stats](https://github-readme-stats.vercel.app/api?username=vikraman1653763&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
